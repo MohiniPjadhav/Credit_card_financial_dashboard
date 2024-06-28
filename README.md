@@ -13,7 +13,7 @@ This project analyzes credit card transaction data to generate insights on reven
 - Overall revenue is 55M.
 - Total interest earned is 7.84M.
 - Total transaction amount is 45M.
-- Male customers are contributing 30M in revenue, female customers $25M.
+- Male customers are contributing 30M in revenue, female customers 25M.
 
 ### Other Key Insights:
 - Blue cards account for the vast majority of revenue at 46M out of 55M total.
