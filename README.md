@@ -10,21 +10,19 @@ This project analyzes credit card transaction data to generate insights on reven
 - Total transaction count increased by 1.5%.
 
 ### Overview YTD:
-- Overall revenue is $55M.
-- Total interest earned is $7.84M.
-- Total transaction amount is $45M.
-- Male customers are contributing $30M in revenue, female customers $25M.
-- Blue and Silver credit cards are contributing to 93% of overall transactions (Blue: $46M, Silver: $5.6M).
-- TX, NY, and CA are contributing to 36% of the total revenue ($20M).
+- Overall revenue is 55M.
+- Total interest earned is 7.84M.
+- Total transaction amount is 45M.
+- Male customers are contributing 30M in revenue, female customers $25M.
 
 ### Other Key Insights:
-- Blue cards account for the vast majority of revenue at $46M out of $55M total.
-- By customer job, businessmen contribute the most revenue at $17M, followed by white-collar workers at $10M.
-- The highest revenue by education level is from graduates at $22M.
-- By income group, medium income contributes the most at $22M.
-- The 40-50 age group contributes the most revenue at $14M.
-- Married customers contribute more revenue ($15M) compared to single ($13M) or unknown ($11M).
-- The most common transaction method is swipe ($35M), followed by chip ($17M), and online ($3M).
+- Blue cards account for the vast majority of revenue at 46M out of 55M total.
+- By customer job, businessmen contribute the most revenue at 17M, followed by white-collar workers at 10M.
+- The highest revenue by education level is from graduates at 22M.
+- By income group, medium income contributes the most at 22M.
+- The 40-50 age group contributes the most revenue at 14M.
+- Married customers contribute more revenue (15M) compared to single (13M) or unknown (11M).
+- The most common transaction method is swipe (35M), followed by chip (17M), and online (3M).
 
 ## Files
 
